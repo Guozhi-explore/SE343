@@ -1,0 +1,5 @@
+DROP DATABASE ebook;
+
+CREATE DATABASE ebook
+CHARACTER SET utf8
+COLLATE utf8_general_ci;
